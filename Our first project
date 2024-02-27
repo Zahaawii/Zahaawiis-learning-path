@@ -1,0 +1,10 @@
+//Lets make our first C# program.
+
+// As a tradition in every programming language, we will learn how to make the terminal write "Hello World"
+
+using System;
+Console.WriteLine("Hello World");
+
+// To go further, we can make it say
+
+Console.WriteLine("This will be the most hideous learning path, ever made");

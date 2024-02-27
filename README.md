@@ -6,7 +6,7 @@ About Me I'm Zahaa, a passionate individual with a fervent desire to master the 
 
 My Vision My ultimate goal is not just to write code, but to craft elegant solutions that solve real-world problems. I envision myself as a versatile developer capable of creating robust applications, designing intuitive user interfaces, and contributing meaningfully to the ever-evolving tech landscape.
 
-Learning Path
+Learning Path:
 
 Foundations
 

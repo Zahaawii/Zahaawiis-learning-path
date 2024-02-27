@@ -12,9 +12,9 @@ string firstString = "This is my first string variable"";
 
 string firstString = "This is my first string";
 
-There is actually an easier way in Visual studio.
+/* There is actually an easier way in Visual studio.
 
-Visual studio can actually identify what variable it needs to be, if you use "var" - I know the definition might not be great, but see here:
+Visual studio can actually identify what variable it needs to be, if you use "var" - I know the definition might not be great, but see here: */
 
 var firstString = "This is my first string"; Console.WriteLine (firstString);
 

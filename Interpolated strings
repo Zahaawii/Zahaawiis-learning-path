@@ -1,0 +1,8 @@
+// Let us use a interpolated string
+// Here is how
+
+decimal orderAmount = 10.2322m;
+Console.WriteLine($"You owe: {orderAmount:C}");
+
+//This outputs the following 
+You owe $ 10.23

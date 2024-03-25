@@ -1,0 +1,28 @@
+// Browse through this code to see what is going on
+using System;
+
+// create the variables without value
+
+short a;
+int b;
+double c;
+
+// now lets give the variables values
+
+a = 20
+b = 30
+c = a + b; 
+Console.WriteLine("a = {0}, b = {1}, c = {2}", a, b, c
+
+//the reason that we start with "0" is becasue 0 is the first number in the system
+
+//the compiler will give the result
+a = 20, b = 30, c = 50
+
+
+//another way to write this code could be
+
+short a = 20;
+int b = 30;
+double c = a + b
+Console.WriteLine("a = {0}, b = {1}, c = {2}", a, b, c

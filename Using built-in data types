@@ -1,0 +1,23 @@
+//Using built-in data types
+
+implicity typing: var 
+var firstString = "test 123";
+var firstChar ='A';
+int firstInt= 5;
+var secondInt = 6;
+int bigInt = int.MaxValue
+uint bigPositiveInt = uInt.Maxvalue;
+short smallerNumber = 5;
+short.MaxValue
+long biggerNumber = 3333333333333
+long.MaxValue
+ulong.MaxValue
+float pie = 3.14; // error C50564: litereal of type double cannot be implicitly converted to type' float'; use an...
+float pie = 3.14f // the "f" at the end will tell C# that it has to be treated as a float
+var pi = 3.14f;
+double pi2 = 3.14
+var pi3 = 3.14d // adding a d suffix at the end of it specifies that it is a double
+
+// this is the explicit and implicit versions of booleans.
+bool personalTruth = true;
+var thisIsFalse = false;
